@@ -1,0 +1,6 @@
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.SoftUni - Exams Calculations\EnoughTime\bin\Debug\EnoughTime.exe.config
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.SoftUni - Exams Calculations\EnoughTime\bin\Debug\EnoughTime.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.SoftUni - Exams Calculations\EnoughTime\bin\Debug\EnoughTime.pdb
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.SoftUni - Exams Calculations\EnoughTime\obj\Debug\02.EnoughTime.csprojResolveAssemblyReference.cache
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.SoftUni - Exams Calculations\EnoughTime\obj\Debug\EnoughTime.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.SoftUni - Exams Calculations\EnoughTime\obj\Debug\EnoughTime.pdb

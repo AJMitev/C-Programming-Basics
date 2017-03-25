@@ -1,0 +1,12 @@
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\000.ClassRoom\bin\Debug\ClassRoom.exe.config
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\000.ClassRoom\bin\Debug\ClassRoom.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\000.ClassRoom\bin\Debug\ClassRoom.pdb
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\000.ClassRoom\obj\Debug\000.ClassRoom.csprojResolveAssemblyReference.cache
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\000.ClassRoom\obj\Debug\ClassRoom.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\000.ClassRoom\obj\Debug\ClassRoom.pdb
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\000.ClassRoom\bin\Debug\ClassRoom.exe.config
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\000.ClassRoom\obj\Debug\ClassRoom.exe
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\000.ClassRoom\obj\Debug\ClassRoom.pdb
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\000.ClassRoom\bin\Debug\ClassRoom.exe.config
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\000.ClassRoom\obj\Debug\ClassRoom.exe
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\000.ClassRoom\obj\Debug\ClassRoom.pdb

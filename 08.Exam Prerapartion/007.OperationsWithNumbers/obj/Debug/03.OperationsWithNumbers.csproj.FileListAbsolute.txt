@@ -1,0 +1,6 @@
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\OperationsWithNumbers\bin\Debug\OperationsWithNumbers.exe.config
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\OperationsWithNumbers\bin\Debug\OperationsWithNumbers.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\OperationsWithNumbers\bin\Debug\OperationsWithNumbers.pdb
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\OperationsWithNumbers\obj\Debug\03.OperationsWithNumbers.csprojResolveAssemblyReference.cache
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\OperationsWithNumbers\obj\Debug\OperationsWithNumbers.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\OperationsWithNumbers\obj\Debug\OperationsWithNumbers.pdb

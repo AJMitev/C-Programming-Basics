@@ -1,0 +1,3 @@
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\Ontime for Exam\bin\Debug\Ontime for Exam.exe.config
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\Ontime for Exam\obj\Debug\Ontime for Exam.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\Ontime for Exam\obj\Debug\Ontime for Exam.pdb

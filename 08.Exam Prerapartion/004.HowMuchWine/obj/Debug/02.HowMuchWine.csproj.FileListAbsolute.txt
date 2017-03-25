@@ -1,0 +1,6 @@
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.SoftUni - Exams Calculations\HowMuchWine\bin\Debug\HowMuchWine.exe.config
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.SoftUni - Exams Calculations\HowMuchWine\bin\Debug\HowMuchWine.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.SoftUni - Exams Calculations\HowMuchWine\bin\Debug\HowMuchWine.pdb
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.SoftUni - Exams Calculations\HowMuchWine\obj\Debug\02.HowMuchWine.csprojResolveAssemblyReference.cache
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.SoftUni - Exams Calculations\HowMuchWine\obj\Debug\HowMuchWine.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.SoftUni - Exams Calculations\HowMuchWine\obj\Debug\HowMuchWine.pdb

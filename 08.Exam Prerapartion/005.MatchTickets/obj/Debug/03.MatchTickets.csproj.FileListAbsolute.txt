@@ -1,0 +1,6 @@
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\MatchTickets\bin\Debug\MatchTickets.exe.config
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\MatchTickets\bin\Debug\MatchTickets.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\MatchTickets\bin\Debug\MatchTickets.pdb
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\MatchTickets\obj\Debug\03.MatchTickets.csprojResolveAssemblyReference.cache
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\MatchTickets\obj\Debug\MatchTickets.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\MatchTickets\obj\Debug\MatchTickets.pdb
