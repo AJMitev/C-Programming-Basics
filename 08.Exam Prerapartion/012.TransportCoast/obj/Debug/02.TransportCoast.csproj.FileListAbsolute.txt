@@ -1,0 +1,6 @@
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.SoftUni - Exams Calculations\TransportCoast\bin\Debug\TransportCoast.exe.config
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.SoftUni - Exams Calculations\TransportCoast\bin\Debug\TransportCoast.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.SoftUni - Exams Calculations\TransportCoast\bin\Debug\TransportCoast.pdb
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.SoftUni - Exams Calculations\TransportCoast\obj\Debug\02.TransportCoast.csprojResolveAssemblyReference.cache
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.SoftUni - Exams Calculations\TransportCoast\obj\Debug\TransportCoast.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.SoftUni - Exams Calculations\TransportCoast\obj\Debug\TransportCoast.pdb

@@ -1,0 +1,9 @@
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\031.MarinasPets\bin\Debug\031.MarinasPets.exe.config
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\031.MarinasPets\bin\Debug\031.MarinasPets.exe
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\031.MarinasPets\bin\Debug\031.MarinasPets.pdb
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\031.MarinasPets\obj\Debug\031.MarinasPets.csprojResolveAssemblyReference.cache
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\031.MarinasPets\obj\Debug\031.MarinasPets.exe
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\031.MarinasPets\obj\Debug\031.MarinasPets.pdb
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\031.MarinasPets\bin\Debug\031.MarinasPets.exe.config
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\031.MarinasPets\obj\Debug\031.MarinasPets.exe
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\031.MarinasPets\obj\Debug\031.MarinasPets.pdb

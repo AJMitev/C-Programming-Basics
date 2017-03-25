@@ -1,0 +1,6 @@
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\020.Histogram\bin\Debug\020.Histogram.exe.config
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\020.Histogram\bin\Debug\020.Histogram.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\020.Histogram\bin\Debug\020.Histogram.pdb
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\020.Histogram\obj\Debug\020.Histogram.csprojResolveAssemblyReference.cache
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\020.Histogram\obj\Debug\020.Histogram.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\020.Histogram\obj\Debug\020.Histogram.pdb

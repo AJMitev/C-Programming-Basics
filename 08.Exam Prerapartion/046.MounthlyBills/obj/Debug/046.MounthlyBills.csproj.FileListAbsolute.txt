@@ -1,0 +1,5 @@
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\046.MounthlyBills\bin\Debug\046.MounthlyBills.exe.config
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\046.MounthlyBills\bin\Debug\046.MounthlyBills.exe
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\046.MounthlyBills\bin\Debug\046.MounthlyBills.pdb
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\046.MounthlyBills\obj\Debug\046.MounthlyBills.exe
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\046.MounthlyBills\obj\Debug\046.MounthlyBills.pdb

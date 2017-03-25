@@ -1,0 +1,12 @@
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\026.Summertime\bin\Debug\026.Summertime.exe.config
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\026.Summertime\bin\Debug\026.Summertime.exe
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\026.Summertime\bin\Debug\026.Summertime.pdb
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\026.Summertime\obj\Debug\026.Summertime.csprojResolveAssemblyReference.cache
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\026.Summertime\obj\Debug\026.Summertime.exe
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\026.Summertime\obj\Debug\026.Summertime.pdb
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\026.Summertime\bin\Debug\026.Summertime.exe.config
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\026.Summertime\obj\Debug\026.Summertime.exe
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\026.Summertime\obj\Debug\026.Summertime.pdb
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\026.Summertime\bin\Debug\026.Summertime.exe
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\026.Summertime\bin\Debug\026.Summertime.pdb
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\026.Summertime\obj\Debug\026.Summertime.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\044.Stiropor\bin\Debug\044.Stiropor.exe.config
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\044.Stiropor\bin\Debug\044.Stiropor.exe
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\044.Stiropor\bin\Debug\044.Stiropor.pdb
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\044.Stiropor\obj\Debug\044.Stiropor.exe
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\044.Stiropor\obj\Debug\044.Stiropor.pdb

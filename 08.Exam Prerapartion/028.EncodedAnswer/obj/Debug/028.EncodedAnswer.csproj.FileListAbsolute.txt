@@ -1,0 +1,9 @@
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\028.EncodedAnswer\bin\Debug\028.EncodedAnswer.exe.config
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\028.EncodedAnswer\bin\Debug\028.EncodedAnswer.exe
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\028.EncodedAnswer\bin\Debug\028.EncodedAnswer.pdb
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\028.EncodedAnswer\obj\Debug\028.EncodedAnswer.csprojResolveAssemblyReference.cache
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\028.EncodedAnswer\obj\Debug\028.EncodedAnswer.exe
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\028.EncodedAnswer\obj\Debug\028.EncodedAnswer.pdb
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\028.EncodedAnswer\bin\Debug\028.EncodedAnswer.exe.config
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\028.EncodedAnswer\obj\Debug\028.EncodedAnswer.exe
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\028.EncodedAnswer\obj\Debug\028.EncodedAnswer.pdb

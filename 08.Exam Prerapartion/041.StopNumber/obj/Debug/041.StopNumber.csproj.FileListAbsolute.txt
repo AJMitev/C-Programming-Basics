@@ -1,0 +1,5 @@
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\041.StopNumber\bin\Debug\041.StopNumber.exe.config
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\041.StopNumber\bin\Debug\041.StopNumber.exe
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\041.StopNumber\bin\Debug\041.StopNumber.pdb
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\041.StopNumber\obj\Debug\041.StopNumber.exe
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\041.StopNumber\obj\Debug\041.StopNumber.pdb

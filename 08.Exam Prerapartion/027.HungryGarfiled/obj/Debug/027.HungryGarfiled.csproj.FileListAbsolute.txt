@@ -1,0 +1,6 @@
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\027.HungryGarfiled\bin\Debug\027.HungryGarfiled.exe.config
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\027.HungryGarfiled\bin\Debug\027.HungryGarfiled.exe
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\027.HungryGarfiled\bin\Debug\027.HungryGarfiled.pdb
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\027.HungryGarfiled\obj\Debug\027.HungryGarfiled.csprojResolveAssemblyReference.cache
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\027.HungryGarfiled\obj\Debug\027.HungryGarfiled.exe
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\027.HungryGarfiled\obj\Debug\027.HungryGarfiled.pdb

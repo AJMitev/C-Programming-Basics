@@ -1,0 +1,6 @@
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\025.TheFourFactors\bin\Debug\025.TheFourFactors.exe.config
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\025.TheFourFactors\bin\Debug\025.TheFourFactors.exe
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\025.TheFourFactors\bin\Debug\025.TheFourFactors.pdb
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\025.TheFourFactors\obj\Debug\025.TheFourFactors.csprojResolveAssemblyReference.cache
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\025.TheFourFactors\obj\Debug\025.TheFourFactors.exe
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\025.TheFourFactors\obj\Debug\025.TheFourFactors.pdb

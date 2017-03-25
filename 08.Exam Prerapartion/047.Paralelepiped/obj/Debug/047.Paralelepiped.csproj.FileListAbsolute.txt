@@ -1,0 +1,5 @@
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\047.Paralelepiped\bin\Debug\047.Paralelepiped.exe.config
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\047.Paralelepiped\bin\Debug\047.Paralelepiped.exe
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\047.Paralelepiped\bin\Debug\047.Paralelepiped.pdb
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\047.Paralelepiped\obj\Debug\047.Paralelepiped.exe
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\047.Paralelepiped\obj\Debug\047.Paralelepiped.pdb

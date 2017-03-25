@@ -1,0 +1,6 @@
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\043.GrapeAndRakia\bin\Debug\043.GrapeAndRakia.exe.config
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\043.GrapeAndRakia\bin\Debug\043.GrapeAndRakia.exe
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\043.GrapeAndRakia\bin\Debug\043.GrapeAndRakia.pdb
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\043.GrapeAndRakia\obj\Debug\043.GrapeAndRakia.csprojResolveAssemblyReference.cache
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\043.GrapeAndRakia\obj\Debug\043.GrapeAndRakia.exe
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\043.GrapeAndRakia\obj\Debug\043.GrapeAndRakia.pdb

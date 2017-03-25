@@ -1,0 +1,6 @@
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\033.SoftUniCamp\bin\Debug\033.SoftUniCamp.exe.config
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\033.SoftUniCamp\bin\Debug\033.SoftUniCamp.exe
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\033.SoftUniCamp\bin\Debug\033.SoftUniCamp.pdb
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\033.SoftUniCamp\obj\Debug\033.SoftUniCamp.csprojResolveAssemblyReference.cache
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\033.SoftUniCamp\obj\Debug\033.SoftUniCamp.exe
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\033.SoftUniCamp\obj\Debug\033.SoftUniCamp.pdb

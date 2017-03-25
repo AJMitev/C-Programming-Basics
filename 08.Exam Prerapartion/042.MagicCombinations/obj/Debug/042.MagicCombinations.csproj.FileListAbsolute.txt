@@ -1,0 +1,6 @@
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\042.MagicCombinations\bin\Debug\042.MagicCombinations.exe.config
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\042.MagicCombinations\bin\Debug\042.MagicCombinations.exe
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\042.MagicCombinations\bin\Debug\042.MagicCombinations.pdb
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\042.MagicCombinations\obj\Debug\042.MagicCombinations.csprojResolveAssemblyReference.cache
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\042.MagicCombinations\obj\Debug\042.MagicCombinations.exe
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\042.MagicCombinations\obj\Debug\042.MagicCombinations.pdb

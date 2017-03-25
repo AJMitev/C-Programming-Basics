@@ -1,0 +1,11 @@
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\021.DivisionWithoutResidue\bin\Debug\021.DivisionWithoutResidue.exe.config
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\021.DivisionWithoutResidue\bin\Debug\021.DivisionWithoutResidue.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\021.DivisionWithoutResidue\bin\Debug\021.DivisionWithoutResidue.pdb
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\021.DivisionWithoutResidue\obj\Debug\021.DivisionWithoutResidue.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\021.DivisionWithoutResidue\obj\Debug\021.DivisionWithoutResidue.pdb
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\021.DivisionWithoutResidue\bin\Debug\021.DivisionWithoutResidue.exe.config
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\021.DivisionWithoutResidue\obj\Debug\021.DivisionWithoutResidue.exe
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\021.DivisionWithoutResidue\obj\Debug\021.DivisionWithoutResidue.pdb
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\021.DivisionWithoutResidue\bin\Debug\021.DivisionWithoutResidue.exe.config
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\021.DivisionWithoutResidue\obj\Debug\021.DivisionWithoutResidue.exe
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\021.DivisionWithoutResidue\obj\Debug\021.DivisionWithoutResidue.pdb

@@ -1,0 +1,12 @@
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\029.FallerInLov\bin\Debug\029.FallerInLov.exe.config
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\029.FallerInLov\bin\Debug\029.FallerInLov.exe
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\029.FallerInLov\bin\Debug\029.FallerInLov.pdb
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\029.FallerInLov\obj\Debug\029.FallerInLov.csprojResolveAssemblyReference.cache
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\029.FallerInLov\obj\Debug\029.FallerInLov.exe
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\029.FallerInLov\obj\Debug\029.FallerInLov.pdb
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\029.FallerInLov\bin\Debug\029.FallerInLov.exe.config
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\029.FallerInLov\obj\Debug\029.FallerInLov.exe
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\029.FallerInLov\obj\Debug\029.FallerInLov.pdb
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\029.FallerInLov\bin\Debug\029.FallerInLov.exe
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\029.FallerInLov\bin\Debug\029.FallerInLov.pdb
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\029.FallerInLov\obj\Debug\029.FallerInLov.csprojResolveAssemblyReference.cache

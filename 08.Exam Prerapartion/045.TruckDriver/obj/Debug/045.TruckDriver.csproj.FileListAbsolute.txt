@@ -1,0 +1,5 @@
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\045.TruckDriver\bin\Debug\045.TruckDriver.exe.config
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\045.TruckDriver\bin\Debug\045.TruckDriver.exe
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\045.TruckDriver\bin\Debug\045.TruckDriver.pdb
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\045.TruckDriver\obj\Debug\045.TruckDriver.exe
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\045.TruckDriver\obj\Debug\045.TruckDriver.pdb

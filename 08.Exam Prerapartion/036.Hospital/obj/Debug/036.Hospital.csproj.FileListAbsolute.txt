@@ -1,0 +1,6 @@
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\036.Hospital\bin\Debug\036.Hospital.exe.config
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\036.Hospital\bin\Debug\036.Hospital.exe
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\036.Hospital\bin\Debug\036.Hospital.pdb
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\036.Hospital\obj\Debug\036.Hospital.csprojResolveAssemblyReference.cache
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\036.Hospital\obj\Debug\036.Hospital.exe
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\036.Hospital\obj\Debug\036.Hospital.pdb

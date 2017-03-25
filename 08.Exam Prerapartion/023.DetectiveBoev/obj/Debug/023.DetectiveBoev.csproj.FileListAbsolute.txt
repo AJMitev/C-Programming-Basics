@@ -1,0 +1,12 @@
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\023.DetectiveBoev\bin\Debug\023.DetectiveBoev.exe.config
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\023.DetectiveBoev\bin\Debug\023.DetectiveBoev.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\023.DetectiveBoev\bin\Debug\023.DetectiveBoev.pdb
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\023.DetectiveBoev\obj\Debug\023.DetectiveBoev.csprojResolveAssemblyReference.cache
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\023.DetectiveBoev\obj\Debug\023.DetectiveBoev.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\023.DetectiveBoev\obj\Debug\023.DetectiveBoev.pdb
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\023.DetectiveBoev\bin\Debug\023.DetectiveBoev.exe.config
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\023.DetectiveBoev\obj\Debug\023.DetectiveBoev.exe
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\023.DetectiveBoev\obj\Debug\023.DetectiveBoev.pdb
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\023.DetectiveBoev\bin\Debug\023.DetectiveBoev.exe.config
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\023.DetectiveBoev\obj\Debug\023.DetectiveBoev.exe
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\023.DetectiveBoev\obj\Debug\023.DetectiveBoev.pdb

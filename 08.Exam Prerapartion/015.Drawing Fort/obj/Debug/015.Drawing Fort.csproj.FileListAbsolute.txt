@@ -1,0 +1,9 @@
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\015.Drawing Fort\bin\Debug\015.Drawing Fort.exe.config
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\015.Drawing Fort\obj\Debug\015.Drawing Fort.csprojResolveAssemblyReference.cache
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\015.Drawing Fort\bin\Debug\015.Drawing Fort.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\015.Drawing Fort\bin\Debug\015.Drawing Fort.pdb
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\015.Drawing Fort\obj\Debug\015.Drawing Fort.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\015.Drawing Fort\obj\Debug\015.Drawing Fort.pdb
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\015.Drawing Fort\bin\Debug\015.Drawing Fort.exe.config
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\015.Drawing Fort\obj\Debug\015.Drawing Fort.exe
+C:\Users\ALEKS\Google Диск\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\015.Drawing Fort\obj\Debug\015.Drawing Fort.pdb

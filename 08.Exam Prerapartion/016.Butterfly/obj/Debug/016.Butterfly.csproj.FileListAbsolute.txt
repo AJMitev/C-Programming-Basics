@@ -1,0 +1,11 @@
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\016.Butterfly\bin\Debug\016.Butterfly.exe.config
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\016.Butterfly\bin\Debug\016.Butterfly.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\016.Butterfly\bin\Debug\016.Butterfly.pdb
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\016.Butterfly\obj\Debug\016.Butterfly.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\016.Butterfly\obj\Debug\016.Butterfly.pdb
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\016.Butterfly\bin\Debug\016.Butterfly.exe.config
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\016.Butterfly\obj\Debug\016.Butterfly.exe
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\016.Butterfly\obj\Debug\016.Butterfly.pdb
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\016.Butterfly\bin\Debug\016.Butterfly.exe
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\016.Butterfly\bin\Debug\016.Butterfly.pdb
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\016.Butterfly\obj\Debug\016.Butterfly.csprojResolveAssemblyReference.cache

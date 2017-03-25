@@ -1,0 +1,6 @@
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\039.BackToThePast\bin\Debug\039.BackToThePast.exe.config
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\039.BackToThePast\bin\Debug\039.BackToThePast.exe
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\039.BackToThePast\bin\Debug\039.BackToThePast.pdb
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\039.BackToThePast\obj\Debug\039.BackToThePast.csprojResolveAssemblyReference.cache
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\039.BackToThePast\obj\Debug\039.BackToThePast.exe
+C:\Users\AJ\Google Drive\_AJ Coding_\C#\00.Programming Basics\00.Exams Calculations\039.BackToThePast\obj\Debug\039.BackToThePast.pdb
