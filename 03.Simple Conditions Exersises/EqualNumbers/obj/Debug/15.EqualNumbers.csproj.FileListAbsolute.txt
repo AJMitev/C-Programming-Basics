@@ -1,0 +1,8 @@
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\03.SoftUni - Simple Conditions Exersises\EqualNumbers\bin\Debug\EqualNumbers.exe.config
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\03.SoftUni - Simple Conditions Exersises\EqualNumbers\bin\Debug\EqualNumbers.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\03.SoftUni - Simple Conditions Exersises\EqualNumbers\bin\Debug\EqualNumbers.pdb
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\03.SoftUni - Simple Conditions Exersises\EqualNumbers\obj\Debug\EqualNumbers.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\03.SoftUni - Simple Conditions Exersises\EqualNumbers\obj\Debug\EqualNumbers.pdb
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\03.SoftUni - Simple Conditions Exersises\EqualNumbers\bin\Debug\EqualNumbers.exe.config
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\03.SoftUni - Simple Conditions Exersises\EqualNumbers\obj\Debug\EqualNumbers.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\03.SoftUni - Simple Conditions Exersises\EqualNumbers\obj\Debug\EqualNumbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\04.Complex Conditions Exercises\04.Frut-or-Vegetable\bin\Debug\04.Frut-or-Vegetable.exe.config
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\04.Complex Conditions Exercises\04.Frut-or-Vegetable\bin\Debug\04.Frut-or-Vegetable.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\04.Complex Conditions Exercises\04.Frut-or-Vegetable\bin\Debug\04.Frut-or-Vegetable.pdb
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\04.Complex Conditions Exercises\04.Frut-or-Vegetable\obj\Debug\04.Frut-or-Vegetable.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\04.Complex Conditions Exercises\04.Frut-or-Vegetable\obj\Debug\04.Frut-or-Vegetable.pdb

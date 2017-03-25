@@ -1,0 +1,6 @@
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\06.Drawing Figures with Loops\03.Square of Stars\bin\Debug\03.Square of Stars.exe.config
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\06.Drawing Figures with Loops\03.Square of Stars\bin\Debug\03.Square of Stars.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\06.Drawing Figures with Loops\03.Square of Stars\bin\Debug\03.Square of Stars.pdb
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\06.Drawing Figures with Loops\03.Square of Stars\obj\Debug\03.Square of Stars.csprojResolveAssemblyReference.cache
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\06.Drawing Figures with Loops\03.Square of Stars\obj\Debug\03.Square of Stars.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\06.Drawing Figures with Loops\03.Square of Stars\obj\Debug\03.Square of Stars.pdb

@@ -1,0 +1,5 @@
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Conditions Exersises\03.EvenOrOdd\bin\Debug\03.EvenOrOdd.exe.config
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Conditions Exersises\03.EvenOrOdd\bin\Debug\03.EvenOrOdd.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Conditions Exersises\03.EvenOrOdd\bin\Debug\03.EvenOrOdd.pdb
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Conditions Exersises\03.EvenOrOdd\obj\Debug\03.EvenOrOdd.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Conditions Exersises\03.EvenOrOdd\obj\Debug\03.EvenOrOdd.pdb

@@ -1,0 +1,15 @@
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni Intro\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni Intro\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni Intro\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni Intro\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni Intro\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni Intro\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Intro\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Intro\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Intro\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\01.SoftUni Intro\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\01.SoftUni Intro\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\01.SoftUni Intro\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\01.SoftUni Intro\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\01.SoftUni Intro\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\01.SoftUni Intro\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache

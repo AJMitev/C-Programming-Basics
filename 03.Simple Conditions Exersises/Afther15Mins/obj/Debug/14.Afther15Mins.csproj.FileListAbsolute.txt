@@ -1,0 +1,6 @@
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\03.SoftUni - Simple Conditions Exersises\Afther15Mins\bin\Debug\Afther15Mins.exe.config
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\03.SoftUni - Simple Conditions Exersises\Afther15Mins\bin\Debug\Afther15Mins.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\03.SoftUni - Simple Conditions Exersises\Afther15Mins\bin\Debug\Afther15Mins.pdb
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\03.SoftUni - Simple Conditions Exersises\Afther15Mins\obj\Debug\14.Afther15Mins.csprojResolveAssemblyReference.cache
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\03.SoftUni - Simple Conditions Exersises\Afther15Mins\obj\Debug\Afther15Mins.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\03.SoftUni - Simple Conditions Exersises\Afther15Mins\obj\Debug\Afther15Mins.pdb

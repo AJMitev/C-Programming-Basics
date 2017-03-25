@@ -1,0 +1,6 @@
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni Intro\TriangleArea\bin\Debug\TriangleArea.exe.config
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni Intro\TriangleArea\bin\Debug\TriangleArea.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni Intro\TriangleArea\bin\Debug\TriangleArea.pdb
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni Intro\TriangleArea\obj\Debug\TriangleArea.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni Intro\TriangleArea\obj\Debug\TriangleArea.pdb
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni Intro\TriangleArea\obj\Debug\TriangleArea.csprojResolveAssemblyReference.cache

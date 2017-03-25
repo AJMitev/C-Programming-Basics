@@ -1,0 +1,5 @@
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\07.Advanced Loops\12. Fibonacci\bin\Debug\_12.Fibonacci.exe.config
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\07.Advanced Loops\12. Fibonacci\bin\Debug\_12.Fibonacci.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\07.Advanced Loops\12. Fibonacci\bin\Debug\_12.Fibonacci.pdb
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\07.Advanced Loops\12. Fibonacci\obj\Debug\_12.Fibonacci.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\07.Advanced Loops\12. Fibonacci\obj\Debug\_12.Fibonacci.pdb

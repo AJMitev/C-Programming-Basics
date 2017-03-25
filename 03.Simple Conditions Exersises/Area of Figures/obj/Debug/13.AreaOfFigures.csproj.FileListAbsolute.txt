@@ -1,0 +1,6 @@
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\03.SoftUni - Simple Conditions Exersises\Area of Figures\bin\Debug\Area of Figures.exe.config
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\03.SoftUni - Simple Conditions Exersises\Area of Figures\bin\Debug\Area of Figures.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\03.SoftUni - Simple Conditions Exersises\Area of Figures\bin\Debug\Area of Figures.pdb
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\03.SoftUni - Simple Conditions Exersises\Area of Figures\obj\Debug\13.AreaOfFigures.csprojResolveAssemblyReference.cache
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\03.SoftUni - Simple Conditions Exersises\Area of Figures\obj\Debug\Area of Figures.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\03.SoftUni - Simple Conditions Exersises\Area of Figures\obj\Debug\Area of Figures.pdb

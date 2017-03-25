@@ -1,0 +1,5 @@
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\07.Advanced Loops\03.Powers of Two\bin\Debug\03.Powers of Two.exe.config
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\07.Advanced Loops\03.Powers of Two\bin\Debug\03.Powers of Two.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\07.Advanced Loops\03.Powers of Two\bin\Debug\03.Powers of Two.pdb
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\07.Advanced Loops\03.Powers of Two\obj\Debug\03.Powers of Two.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\07.Advanced Loops\03.Powers of Two\obj\Debug\03.Powers of Two.pdb

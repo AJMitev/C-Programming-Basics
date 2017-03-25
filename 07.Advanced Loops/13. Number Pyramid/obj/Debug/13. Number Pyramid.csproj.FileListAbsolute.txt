@@ -1,0 +1,6 @@
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\07.Advanced Loops\13. Number Pyramid\bin\Debug\_13.Number_Pyramid.exe.config
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\07.Advanced Loops\13. Number Pyramid\bin\Debug\_13.Number_Pyramid.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\07.Advanced Loops\13. Number Pyramid\bin\Debug\_13.Number_Pyramid.pdb
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\07.Advanced Loops\13. Number Pyramid\obj\Debug\_13.Number_Pyramid.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\07.Advanced Loops\13. Number Pyramid\obj\Debug\_13.Number_Pyramid.pdb
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\07.Advanced Loops\13. Number Pyramid\obj\Debug\13. Number Pyramid.csprojResolveAssemblyReference.cache

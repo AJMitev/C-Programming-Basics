@@ -1,0 +1,6 @@
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\VegetablesShop\bin\Debug\VegetablesShop.exe.config
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\VegetablesShop\bin\Debug\VegetablesShop.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\VegetablesShop\bin\Debug\VegetablesShop.pdb
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\VegetablesShop\obj\Debug\VegetablesShop.csprojResolveAssemblyReference.cache
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\VegetablesShop\obj\Debug\VegetablesShop.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\VegetablesShop\obj\Debug\VegetablesShop.pdb

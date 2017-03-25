@@ -1,0 +1,5 @@
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\TextAndNumbers\bin\Debug\TextAndNumbers.exe.config
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\TextAndNumbers\bin\Debug\TextAndNumbers.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\TextAndNumbers\bin\Debug\TextAndNumbers.pdb
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\TextAndNumbers\obj\Debug\TextAndNumbers.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\TextAndNumbers\obj\Debug\TextAndNumbers.pdb

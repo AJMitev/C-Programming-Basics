@@ -1,0 +1,5 @@
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni Intro\MultiplyNumbers\bin\Debug\MultiplyNumbers.exe.config
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni Intro\MultiplyNumbers\bin\Debug\MultiplyNumbers.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni Intro\MultiplyNumbers\bin\Debug\MultiplyNumbers.pdb
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni Intro\MultiplyNumbers\obj\Debug\MultiplyNumbers.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni Intro\MultiplyNumbers\obj\Debug\MultiplyNumbers.pdb

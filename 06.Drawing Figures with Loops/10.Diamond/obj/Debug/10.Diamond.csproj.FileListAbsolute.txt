@@ -1,0 +1,6 @@
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\06.Drawing Figures with Loops\10.Diamond\bin\Debug\10.Diamond.exe.config
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\06.Drawing Figures with Loops\10.Diamond\bin\Debug\10.Diamond.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\06.Drawing Figures with Loops\10.Diamond\bin\Debug\10.Diamond.pdb
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\06.Drawing Figures with Loops\10.Diamond\obj\Debug\10.Diamond.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\06.Drawing Figures with Loops\10.Diamond\obj\Debug\10.Diamond.pdb
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\06.Drawing Figures with Loops\10.Diamond\obj\Debug\10.Diamond.csprojResolveAssemblyReference.cache

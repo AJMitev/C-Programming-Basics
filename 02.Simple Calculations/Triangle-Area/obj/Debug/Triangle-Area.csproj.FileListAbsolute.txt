@@ -1,0 +1,8 @@
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\Triangle-Area\bin\Debug\Triangle-Area.exe.config
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\Triangle-Area\bin\Debug\Triangle-Area.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\Triangle-Area\bin\Debug\Triangle-Area.pdb
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\Triangle-Area\obj\Debug\Triangle-Area.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\Triangle-Area\obj\Debug\Triangle-Area.pdb
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\02.SoftUni - Simple Calculations\Triangle-Area\bin\Debug\Triangle-Area.exe.config
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\02.SoftUni - Simple Calculations\Triangle-Area\obj\Debug\Triangle-Area.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\02.SoftUni - Simple Calculations\Triangle-Area\obj\Debug\Triangle-Area.pdb

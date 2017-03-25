@@ -1,0 +1,9 @@
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\03.SoftUni - Simple Conditions Exersises\NumToText\bin\Debug\NumToText.exe.config
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\03.SoftUni - Simple Conditions Exersises\NumToText\bin\Debug\NumToText.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\03.SoftUni - Simple Conditions Exersises\NumToText\bin\Debug\NumToText.pdb
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\03.SoftUni - Simple Conditions Exersises\NumToText\obj\Debug\16.NumToText.csprojResolveAssemblyReference.cache
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\03.SoftUni - Simple Conditions Exersises\NumToText\obj\Debug\NumToText.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\03.SoftUni - Simple Conditions Exersises\NumToText\obj\Debug\NumToText.pdb
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\03.Simple Conditions Exersises\NumToText\bin\Debug\NumToText.exe.config
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\03.Simple Conditions Exersises\NumToText\obj\Debug\NumToText.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\03.Simple Conditions Exersises\NumToText\obj\Debug\NumToText.pdb

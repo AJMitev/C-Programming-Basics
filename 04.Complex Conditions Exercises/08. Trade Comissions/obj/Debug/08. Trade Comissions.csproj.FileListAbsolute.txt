@@ -1,0 +1,6 @@
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\04.Complex Conditions Exercises\08. Trade Comissions\bin\Debug\_08.Trade_Comissions.exe.config
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\04.Complex Conditions Exercises\08. Trade Comissions\bin\Debug\_08.Trade_Comissions.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\04.Complex Conditions Exercises\08. Trade Comissions\bin\Debug\_08.Trade_Comissions.pdb
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\04.Complex Conditions Exercises\08. Trade Comissions\obj\Debug\08. Trade Comissions.csprojResolveAssemblyReference.cache
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\04.Complex Conditions Exercises\08. Trade Comissions\obj\Debug\_08.Trade_Comissions.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\04.Complex Conditions Exercises\08. Trade Comissions\obj\Debug\_08.Trade_Comissions.pdb

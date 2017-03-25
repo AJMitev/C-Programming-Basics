@@ -1,0 +1,9 @@
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\Sqare Area\bin\Debug\Sqare Area.exe.config
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\Sqare Area\bin\Debug\Sqare Area.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\Sqare Area\bin\Debug\Sqare Area.pdb
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\Sqare Area\obj\Debug\Sqare Area.csprojResolveAssemblyReference.cache
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\Sqare Area\obj\Debug\Sqare Area.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\Sqare Area\obj\Debug\Sqare Area.pdb
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\02.SoftUni - Simple Calculations\Sqare Area\bin\Debug\Sqare Area.exe.config
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\02.SoftUni - Simple Calculations\Sqare Area\obj\Debug\Sqare Area.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\02.SoftUni - Simple Calculations\Sqare Area\obj\Debug\Sqare Area.pdb

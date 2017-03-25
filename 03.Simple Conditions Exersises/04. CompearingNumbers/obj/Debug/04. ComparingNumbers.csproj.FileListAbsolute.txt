@@ -1,0 +1,5 @@
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Conditions Exersises\04. CompearingNumbers\bin\Debug\_04.CompearingNumbers.exe.config
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Conditions Exersises\04. CompearingNumbers\bin\Debug\_04.CompearingNumbers.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Conditions Exersises\04. CompearingNumbers\bin\Debug\_04.CompearingNumbers.pdb
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Conditions Exersises\04. CompearingNumbers\obj\Debug\_04.CompearingNumbers.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Conditions Exersises\04. CompearingNumbers\obj\Debug\_04.CompearingNumbers.pdb

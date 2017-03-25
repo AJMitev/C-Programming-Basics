@@ -1,0 +1,5 @@
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\07.Advanced Loops\05. Sequence 2k+1\bin\Debug\_05.Sequence_2k_1.exe.config
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\07.Advanced Loops\05. Sequence 2k+1\bin\Debug\_05.Sequence_2k_1.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\07.Advanced Loops\05. Sequence 2k+1\bin\Debug\_05.Sequence_2k_1.pdb
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\07.Advanced Loops\05. Sequence 2k+1\obj\Debug\_05.Sequence_2k_1.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\07.Advanced Loops\05. Sequence 2k+1\obj\Debug\_05.Sequence_2k_1.pdb

@@ -1,0 +1,5 @@
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\5. Simple Loops\07. Left and Right Sum\bin\Debug\_07.Left_and_Right_Sum.exe.config
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\5. Simple Loops\07. Left and Right Sum\bin\Debug\_07.Left_and_Right_Sum.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\5. Simple Loops\07. Left and Right Sum\bin\Debug\_07.Left_and_Right_Sum.pdb
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\5. Simple Loops\07. Left and Right Sum\obj\Debug\_07.Left_and_Right_Sum.exe
+C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\5. Simple Loops\07. Left and Right Sum\obj\Debug\_07.Left_and_Right_Sum.pdb
