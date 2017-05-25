@@ -2,6 +2,7 @@
 This repository contains solved problems during my programming basics education at SoftUni.
 
 0.[Previous Exam](./0.%20Exams)
+
 1.[First Steps in Coding](./1.%20First%20Steps%20in%20Coding)
 2.[Simple Calculations](./2.%20Simple%20Calculations)
 3.[Simple Conditional Statements](./3.%20Simple%20Conditional%20Statements)
