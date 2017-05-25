@@ -1,5 +1,0 @@
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\USD-to-BGN\bin\Debug\USD-to-BGN.exe.config
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\USD-to-BGN\bin\Debug\USD-to-BGN.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\USD-to-BGN\bin\Debug\USD-to-BGN.pdb
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\USD-to-BGN\obj\Debug\USD-to-BGN.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\USD-to-BGN\obj\Debug\USD-to-BGN.pdb

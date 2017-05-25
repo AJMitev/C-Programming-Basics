@@ -1,9 +1,0 @@
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Conditions Exersises\SecsToMinsConvertor\bin\Debug\SecsToMinsConvertor.exe.config
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Conditions Exersises\SecsToMinsConvertor\bin\Debug\SecsToMinsConvertor.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Conditions Exersises\SecsToMinsConvertor\bin\Debug\SecsToMinsConvertor.pdb
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Conditions Exersises\SecsToMinsConvertor\obj\Debug\07.SecsToMinsConvertor.csprojResolveAssemblyReference.cache
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Conditions Exersises\SecsToMinsConvertor\obj\Debug\SecsToMinsConvertor.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Conditions Exersises\SecsToMinsConvertor\obj\Debug\SecsToMinsConvertor.pdb
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\03.SoftUni - Simple Conditions Exersises\SecsToMinsConvertor\bin\Debug\SecsToMinsConvertor.exe.config
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\03.SoftUni - Simple Conditions Exersises\SecsToMinsConvertor\obj\Debug\SecsToMinsConvertor.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\03.SoftUni - Simple Conditions Exersises\SecsToMinsConvertor\obj\Debug\SecsToMinsConvertor.pdb

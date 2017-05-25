@@ -1,6 +1,0 @@
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\5. Simple Loops\03.Latian Letters\bin\Debug\03.Latian Letters.exe.config
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\5. Simple Loops\03.Latian Letters\bin\Debug\03.Latian Letters.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\5. Simple Loops\03.Latian Letters\bin\Debug\03.Latian Letters.pdb
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\5. Simple Loops\03.Latian Letters\obj\Debug\03.Latian Letters.csprojResolveAssemblyReference.cache
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\5. Simple Loops\03.Latian Letters\obj\Debug\03.Latian Letters.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\5. Simple Loops\03.Latian Letters\obj\Debug\03.Latian Letters.pdb

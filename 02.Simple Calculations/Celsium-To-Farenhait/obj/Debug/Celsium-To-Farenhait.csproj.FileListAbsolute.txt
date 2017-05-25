@@ -1,5 +1,0 @@
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\Celsium-To-Farenhait\bin\Debug\Celsium-To-Farenhait.exe.config
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\Celsium-To-Farenhait\bin\Debug\Celsium-To-Farenhait.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\Celsium-To-Farenhait\bin\Debug\Celsium-To-Farenhait.pdb
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\Celsium-To-Farenhait\obj\Debug\Celsium-To-Farenhait.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\Celsium-To-Farenhait\obj\Debug\Celsium-To-Farenhait.pdb

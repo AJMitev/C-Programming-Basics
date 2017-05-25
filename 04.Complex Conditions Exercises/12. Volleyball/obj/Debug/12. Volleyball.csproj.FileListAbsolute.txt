@@ -1,6 +1,0 @@
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\04.Complex Conditions Exercises\12. Volleyball\bin\Debug\_12.Volleyball.exe.config
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\04.Complex Conditions Exercises\12. Volleyball\bin\Debug\_12.Volleyball.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\04.Complex Conditions Exercises\12. Volleyball\bin\Debug\_12.Volleyball.pdb
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\04.Complex Conditions Exercises\12. Volleyball\obj\Debug\_12.Volleyball.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\04.Complex Conditions Exercises\12. Volleyball\obj\Debug\_12.Volleyball.pdb
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\04.Complex Conditions Exercises\12. Volleyball\obj\Debug\12. Volleyball.csprojResolveAssemblyReference.cache

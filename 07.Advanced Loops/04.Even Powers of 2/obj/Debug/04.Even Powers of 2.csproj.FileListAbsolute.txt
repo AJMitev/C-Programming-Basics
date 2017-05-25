@@ -1,5 +1,0 @@
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\07.Advanced Loops\04.Even Powers of 2\bin\Debug\04.Even Powers of 2.exe.config
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\07.Advanced Loops\04.Even Powers of 2\bin\Debug\04.Even Powers of 2.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\07.Advanced Loops\04.Even Powers of 2\bin\Debug\04.Even Powers of 2.pdb
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\07.Advanced Loops\04.Even Powers of 2\obj\Debug\04.Even Powers of 2.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\07.Advanced Loops\04.Even Powers of 2\obj\Debug\04.Even Powers of 2.pdb

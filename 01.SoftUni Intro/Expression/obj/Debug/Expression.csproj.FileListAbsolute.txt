@@ -1,6 +1,0 @@
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni Intro\Expression\bin\Debug\Expression.exe.config
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni Intro\Expression\bin\Debug\Expression.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni Intro\Expression\bin\Debug\Expression.pdb
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni Intro\Expression\obj\Debug\Expression.csprojResolveAssemblyReference.cache
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni Intro\Expression\obj\Debug\Expression.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni Intro\Expression\obj\Debug\Expression.pdb

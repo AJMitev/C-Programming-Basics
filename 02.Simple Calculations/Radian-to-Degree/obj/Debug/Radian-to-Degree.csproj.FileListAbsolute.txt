@@ -1,5 +1,0 @@
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\Radian-to-Degree\bin\Debug\Radian-to-Degree.exe.config
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\Radian-to-Degree\bin\Debug\Radian-to-Degree.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\Radian-to-Degree\bin\Debug\Radian-to-Degree.pdb
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\Radian-to-Degree\obj\Debug\Radian-to-Degree.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\Radian-to-Degree\obj\Debug\Radian-to-Degree.pdb

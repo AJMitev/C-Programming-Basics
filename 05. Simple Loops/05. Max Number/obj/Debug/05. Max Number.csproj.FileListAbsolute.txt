@@ -1,6 +1,0 @@
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\5. Simple Loops\05. Max Number\bin\Debug\_05.Max_Number.exe.config
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\5. Simple Loops\05. Max Number\bin\Debug\_05.Max_Number.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\5. Simple Loops\05. Max Number\bin\Debug\_05.Max_Number.pdb
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\5. Simple Loops\05. Max Number\obj\Debug\05. Max Number.csprojResolveAssemblyReference.cache
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\5. Simple Loops\05. Max Number\obj\Debug\_05.Max_Number.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\5. Simple Loops\05. Max Number\obj\Debug\_05.Max_Number.pdb

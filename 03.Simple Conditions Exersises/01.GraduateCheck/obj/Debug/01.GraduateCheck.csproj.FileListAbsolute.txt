@@ -1,6 +1,0 @@
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Conditions Exersises\01.GraduateCheck\bin\Debug\01.GraduateCheck.exe.config
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Conditions Exersises\01.GraduateCheck\obj\Debug\01.GraduateCheck.csprojResolveAssemblyReference.cache
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Conditions Exersises\01.GraduateCheck\bin\Debug\01.GraduateCheck.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Conditions Exersises\01.GraduateCheck\bin\Debug\01.GraduateCheck.pdb
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Conditions Exersises\01.GraduateCheck\obj\Debug\01.GraduateCheck.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Conditions Exersises\01.GraduateCheck\obj\Debug\01.GraduateCheck.pdb

@@ -1,6 +1,0 @@
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\06.Drawing Figures with Loops\09.House\bin\Debug\09.House.exe.config
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\06.Drawing Figures with Loops\09.House\bin\Debug\09.House.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\06.Drawing Figures with Loops\09.House\bin\Debug\09.House.pdb
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\06.Drawing Figures with Loops\09.House\obj\Debug\09.House.csprojResolveAssemblyReference.cache
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\06.Drawing Figures with Loops\09.House\obj\Debug\09.House.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\06.Drawing Figures with Loops\09.House\obj\Debug\09.House.pdb

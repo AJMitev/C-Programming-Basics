@@ -1,6 +1,0 @@
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\Cirle-AreaAndPerimeter\bin\Debug\Cirle-AreaAndPerimeter.exe.config
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\Cirle-AreaAndPerimeter\bin\Debug\Cirle-AreaAndPerimeter.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\Cirle-AreaAndPerimeter\bin\Debug\Cirle-AreaAndPerimeter.pdb
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\Cirle-AreaAndPerimeter\obj\Debug\Cirle-AreaAndPerimeter.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\Cirle-AreaAndPerimeter\obj\Debug\Cirle-AreaAndPerimeter.pdb
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\Cirle-AreaAndPerimeter\obj\Debug\Cirle-AreaAndPerimeter.csprojResolveAssemblyReference.cache

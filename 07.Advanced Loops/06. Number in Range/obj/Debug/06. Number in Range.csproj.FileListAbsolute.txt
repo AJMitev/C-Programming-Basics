@@ -1,6 +1,0 @@
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\07.Advanced Loops\06. Number in Range\bin\Debug\_06.Number_in_Range.exe.config
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\07.Advanced Loops\06. Number in Range\bin\Debug\_06.Number_in_Range.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\07.Advanced Loops\06. Number in Range\bin\Debug\_06.Number_in_Range.pdb
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\07.Advanced Loops\06. Number in Range\obj\Debug\_06.Number_in_Range.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\07.Advanced Loops\06. Number in Range\obj\Debug\_06.Number_in_Range.pdb
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\07.Advanced Loops\06. Number in Range\obj\Debug\06. Number in Range.csprojResolveAssemblyReference.cache

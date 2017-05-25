@@ -1,9 +1,0 @@
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Conditions Exersises\UnitConvertor\bin\Debug\UnitConvertor.exe.config
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Conditions Exersises\UnitConvertor\obj\Debug\08.UnitConvertor.csprojResolveAssemblyReference.cache
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Conditions Exersises\UnitConvertor\bin\Debug\UnitConvertor.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Conditions Exersises\UnitConvertor\bin\Debug\UnitConvertor.pdb
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Conditions Exersises\UnitConvertor\obj\Debug\UnitConvertor.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Conditions Exersises\UnitConvertor\obj\Debug\UnitConvertor.pdb
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\03.SoftUni - Simple Conditions Exersises\UnitConvertor\bin\Debug\UnitConvertor.exe.config
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\03.SoftUni - Simple Conditions Exersises\UnitConvertor\obj\Debug\UnitConvertor.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\03.SoftUni - Simple Conditions Exersises\UnitConvertor\obj\Debug\UnitConvertor.pdb

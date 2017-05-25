@@ -1,6 +1,0 @@
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\06.Drawing Figures with Loops\04.Triangle of Dollars\bin\Debug\04.Triangle of Dollars.exe.config
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\06.Drawing Figures with Loops\04.Triangle of Dollars\bin\Debug\04.Triangle of Dollars.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\06.Drawing Figures with Loops\04.Triangle of Dollars\bin\Debug\04.Triangle of Dollars.pdb
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\06.Drawing Figures with Loops\04.Triangle of Dollars\obj\Debug\04.Triangle of Dollars.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\06.Drawing Figures with Loops\04.Triangle of Dollars\obj\Debug\04.Triangle of Dollars.pdb
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\06.Drawing Figures with Loops\04.Triangle of Dollars\obj\Debug\04.Triangle of Dollars.csprojResolveAssemblyReference.cache

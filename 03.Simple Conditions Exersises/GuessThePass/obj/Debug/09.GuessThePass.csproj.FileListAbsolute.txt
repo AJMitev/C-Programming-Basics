@@ -1,6 +1,0 @@
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Conditions Exersises\GuessThePass\obj\Debug\09.GuessThePass.csprojResolveAssemblyReference.cache
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Conditions Exersises\GuessThePass\bin\Debug\GuessThePass.exe.config
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Conditions Exersises\GuessThePass\bin\Debug\GuessThePass.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Conditions Exersises\GuessThePass\bin\Debug\GuessThePass.pdb
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Conditions Exersises\GuessThePass\obj\Debug\GuessThePass.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Conditions Exersises\GuessThePass\obj\Debug\GuessThePass.pdb

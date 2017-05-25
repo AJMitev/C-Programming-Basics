@@ -1,6 +1,0 @@
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\07.Advanced Loops\09. Sum Digits\bin\Debug\_09.Sum_Digits.exe.config
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\07.Advanced Loops\09. Sum Digits\bin\Debug\_09.Sum_Digits.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\07.Advanced Loops\09. Sum Digits\bin\Debug\_09.Sum_Digits.pdb
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\07.Advanced Loops\09. Sum Digits\obj\Debug\09. Sum Digits.csprojResolveAssemblyReference.cache
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\07.Advanced Loops\09. Sum Digits\obj\Debug\_09.Sum_Digits.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\07.Advanced Loops\09. Sum Digits\obj\Debug\_09.Sum_Digits.pdb

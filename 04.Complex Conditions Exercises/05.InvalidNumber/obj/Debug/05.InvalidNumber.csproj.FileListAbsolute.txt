@@ -1,5 +1,0 @@
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\04.Complex Conditions Exercises\05.InvalidNumber\bin\Debug\05.InvalidNumber.exe.config
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\04.Complex Conditions Exercises\05.InvalidNumber\bin\Debug\05.InvalidNumber.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\04.Complex Conditions Exercises\05.InvalidNumber\bin\Debug\05.InvalidNumber.pdb
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\04.Complex Conditions Exercises\05.InvalidNumber\obj\Debug\05.InvalidNumber.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\04.Complex Conditions Exercises\05.InvalidNumber\obj\Debug\05.InvalidNumber.pdb

@@ -1,6 +1,0 @@
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\07.Advanced Loops\01.LoopBy3\bin\Debug\01.LoopBy3.exe.config
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\07.Advanced Loops\01.LoopBy3\bin\Debug\01.LoopBy3.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\07.Advanced Loops\01.LoopBy3\bin\Debug\01.LoopBy3.pdb
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\07.Advanced Loops\01.LoopBy3\obj\Debug\01.LoopBy3.csprojResolveAssemblyReference.cache
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\07.Advanced Loops\01.LoopBy3\obj\Debug\01.LoopBy3.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\07.Advanced Loops\01.LoopBy3\obj\Debug\01.LoopBy3.pdb

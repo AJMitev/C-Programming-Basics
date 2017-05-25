@@ -1,6 +1,0 @@
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\PlatesPerMinute\bin\Debug\PlatesPerMinute.exe.config
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\PlatesPerMinute\bin\Debug\PlatesPerMinute.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\PlatesPerMinute\bin\Debug\PlatesPerMinute.pdb
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\PlatesPerMinute\obj\Debug\PlatesPerMinute.csprojResolveAssemblyReference.cache
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\PlatesPerMinute\obj\Debug\PlatesPerMinute.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\PlatesPerMinute\obj\Debug\PlatesPerMinute.pdb

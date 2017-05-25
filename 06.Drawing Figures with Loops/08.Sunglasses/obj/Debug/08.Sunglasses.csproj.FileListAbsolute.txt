@@ -1,6 +1,0 @@
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\06.Drawing Figures with Loops\08.Sunglasses\bin\Debug\08.Sunglasses.exe.config
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\06.Drawing Figures with Loops\08.Sunglasses\bin\Debug\08.Sunglasses.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\06.Drawing Figures with Loops\08.Sunglasses\bin\Debug\08.Sunglasses.pdb
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\06.Drawing Figures with Loops\08.Sunglasses\obj\Debug\08.Sunglasses.csprojResolveAssemblyReference.cache
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\06.Drawing Figures with Loops\08.Sunglasses\obj\Debug\08.Sunglasses.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\06.Drawing Figures with Loops\08.Sunglasses\obj\Debug\08.Sunglasses.pdb

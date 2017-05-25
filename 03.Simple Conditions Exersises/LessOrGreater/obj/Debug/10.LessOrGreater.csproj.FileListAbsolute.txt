@@ -1,5 +1,0 @@
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Conditions Exersises\LessOrGreater\bin\Debug\LessOrGreater.exe.config
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Conditions Exersises\LessOrGreater\bin\Debug\LessOrGreater.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Conditions Exersises\LessOrGreater\bin\Debug\LessOrGreater.pdb
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Conditions Exersises\LessOrGreater\obj\Debug\LessOrGreater.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Conditions Exersises\LessOrGreater\obj\Debug\LessOrGreater.pdb

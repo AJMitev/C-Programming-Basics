@@ -1,5 +1,0 @@
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\5. Simple Loops\04. Sum Numbers\bin\Debug\_04.Sum_Numbers.exe.config
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\5. Simple Loops\04. Sum Numbers\bin\Debug\_04.Sum_Numbers.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\5. Simple Loops\04. Sum Numbers\bin\Debug\_04.Sum_Numbers.pdb
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\5. Simple Loops\04. Sum Numbers\obj\Debug\_04.Sum_Numbers.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\5. Simple Loops\04. Sum Numbers\obj\Debug\_04.Sum_Numbers.pdb

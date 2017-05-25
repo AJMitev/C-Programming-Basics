@@ -1,5 +1,0 @@
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\5. Simple Loops\02. Numbers Ending in 7\bin\Debug\_02.Numbers_Ending_in_7.exe.config
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\5. Simple Loops\02. Numbers Ending in 7\bin\Debug\_02.Numbers_Ending_in_7.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\5. Simple Loops\02. Numbers Ending in 7\bin\Debug\_02.Numbers_Ending_in_7.pdb
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\5. Simple Loops\02. Numbers Ending in 7\obj\Debug\_02.Numbers_Ending_in_7.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\5. Simple Loops\02. Numbers Ending in 7\obj\Debug\_02.Numbers_Ending_in_7.pdb

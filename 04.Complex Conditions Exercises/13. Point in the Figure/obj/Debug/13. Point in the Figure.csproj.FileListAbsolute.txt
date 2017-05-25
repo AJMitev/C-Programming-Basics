@@ -1,6 +1,0 @@
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\04.Complex Conditions Exercises\13. Point in the Figure\bin\Debug\_13.Point_in_the_Figure.exe.config
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\04.Complex Conditions Exercises\13. Point in the Figure\bin\Debug\_13.Point_in_the_Figure.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\04.Complex Conditions Exercises\13. Point in the Figure\bin\Debug\_13.Point_in_the_Figure.pdb
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\04.Complex Conditions Exercises\13. Point in the Figure\obj\Debug\13. Point in the Figure.csprojResolveAssemblyReference.cache
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\04.Complex Conditions Exercises\13. Point in the Figure\obj\Debug\_13.Point_in_the_Figure.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\04.Complex Conditions Exercises\13. Point in the Figure\obj\Debug\_13.Point_in_the_Figure.pdb

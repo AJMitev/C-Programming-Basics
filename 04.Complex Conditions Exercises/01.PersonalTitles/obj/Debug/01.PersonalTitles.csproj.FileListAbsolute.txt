@@ -1,6 +1,0 @@
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\04.Complex Conditions Exercises\PersonalTitles\bin\Debug\PersonalTitles.exe.config
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\04.Complex Conditions Exercises\PersonalTitles\bin\Debug\PersonalTitles.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\04.Complex Conditions Exercises\PersonalTitles\bin\Debug\PersonalTitles.pdb
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\04.Complex Conditions Exercises\PersonalTitles\obj\Debug\01.PersonalTitles.csprojResolveAssemblyReference.cache
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\04.Complex Conditions Exercises\PersonalTitles\obj\Debug\PersonalTitles.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\04.Complex Conditions Exercises\PersonalTitles\obj\Debug\PersonalTitles.pdb

@@ -1,8 +1,0 @@
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\Trapezoid-Area\bin\Debug\Trapezoid-Area.exe.config
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\Trapezoid-Area\bin\Debug\Trapezoid-Area.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\Trapezoid-Area\bin\Debug\Trapezoid-Area.pdb
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\Trapezoid-Area\obj\Debug\Trapezoid-Area.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\Trapezoid-Area\obj\Debug\Trapezoid-Area.pdb
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\02.SoftUni - Simple Calculations\Trapezoid-Area\bin\Debug\Trapezoid-Area.exe.config
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\02.SoftUni - Simple Calculations\Trapezoid-Area\obj\Debug\Trapezoid-Area.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\00.Programming Basics\02.SoftUni - Simple Calculations\Trapezoid-Area\obj\Debug\Trapezoid-Area.pdb

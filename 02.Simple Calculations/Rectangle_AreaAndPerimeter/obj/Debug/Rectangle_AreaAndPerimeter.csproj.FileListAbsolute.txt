@@ -1,6 +1,0 @@
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\Rectangle_AreaAndPerimeter\bin\Debug\Rectangle_AreaAndPerimeter.exe.config
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\Rectangle_AreaAndPerimeter\bin\Debug\Rectangle_AreaAndPerimeter.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\Rectangle_AreaAndPerimeter\bin\Debug\Rectangle_AreaAndPerimeter.pdb
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\Rectangle_AreaAndPerimeter\obj\Debug\Rectangle_AreaAndPerimeter.exe
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\Rectangle_AreaAndPerimeter\obj\Debug\Rectangle_AreaAndPerimeter.pdb
-C:\Users\ALEKS\Google Drive\_AJ Coding_\C#\Programming Basics\SoftUni - Simple Calculations\Rectangle_AreaAndPerimeter\obj\Debug\Rectangle_AreaAndPerimeter.csprojResolveAssemblyReference.cache
